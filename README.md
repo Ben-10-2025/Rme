@@ -18,21 +18,15 @@
 ## 🚀 How to Deploy
 ---
 
-### 🔗 Step 1: Get Your Pair or QR Code Using My Web
+## 🔗 Step 1: Get Your Pair or QR Code Using My Web
 
-<p align="center"> <a href="https://github.com/your-username/Manu-MD/generate" target="_blank"> <img src="https://img.shields.io/badge/Use%20this%20template-green?style=for-the-badge&logo=github" alt="Use this template"> </a> </p>
-
-<div align="center">
-  <a href="https://manu-md-bot-v8.vercel.app">
-    <img src="https://img.shields.io/badge/%F0%9F%94%8C%20Web%201%20-%20Manu-MD%20Web-success?style=for-the-badge" />
-  </a>
-</div>
+<p align="center"> <a href="https://manu-md-bot-v8.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Use%20this%20Web-green?style=for-the-badge&logo=github" alt="Use this web"> </a> </p>
 
 ---
 
-### ⚙️ Step 2: Deploy Instantly
+## ⚙️ Step 2: Deploy Instantly
 
-## Heroku Deploy Template...🍃
+### Heroku Deploy Template...🍃
 
 ```
 https://heroku.com/deploy?template=
@@ -133,7 +127,7 @@ jobs:
 </td>
 
 <td align="center">
-  <img src="https://i.ibb.co/nMrPfmHF/Manul-Ofc-X.jpg" width="100"><br>
+  <img src="https://i.ibb.co/RpnpZg71/Manul-Ofc-X.jpg" width="100"><br>
   <b>King Anjana Bbh</b><br><i>😻Other All Helper 🤍</i>
 </td>
 
